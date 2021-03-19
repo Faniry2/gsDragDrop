@@ -1,4 +1,4 @@
-GSDrag
+gsDragDrop
 ================================
 GSDrag help you to make cool drag and drop movement
 
@@ -18,7 +18,7 @@ the second class uses simple translation to perform the drag and drop without go
 Add GSDrag in your view file
 
 ```html
-  <script src="GSDrag.js" type="text/javascript" defer> </script>
+  <script src="DragDrop.js" type="text/javascript" defer> </script>
 ```
 
 Initialize GSDrag in your script file or an inline script tag like this
