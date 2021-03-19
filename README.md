@@ -56,6 +56,6 @@ Options | Type | Default Values | Description
 --------|------|---------|------------
 collision|boolean|true| the collision parameter to true allows the document to detect the collision between the different html elements of the document
 collision_stop_move|boolean|false|the parameter collision stop move to true (collision must be true) prevents an element that collides with another element in advance when these two elements come into contact
-style_on_collide| Object|color (type string) border_width(type string)border_color(type string) border_style(type string)|definit la couleur de l'element , le style de bordure, la couleur de la bordure et la taille de bordure de l'element qui se fait heurter par un autre element
+style_on_collide| Object|color (type string) border_width(type string)border_color(type string) border_style(type string)|sets the element color, border style, border color and border size of the element that gets hit by another element
                        
 **Note :**remarque: pour interactive drag and drop les elements dont on veut appliquer le drag and drop doit être en position absolut
